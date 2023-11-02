@@ -28,7 +28,7 @@ public class Toys {
 
     public void setOffered(int offered) {
         this.offered = offered;
-    }gi
+    }
 
     public void setStock(int stock) {
         this.stock = stock;
